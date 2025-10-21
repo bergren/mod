@@ -12,6 +12,7 @@ import (
 func TestName(t *testing.T) {
 	fmt.Println("mod.main()")
 	Mod()
+	All()
 	mod1.Hello()
 	mod2.Hello()
 	quote.Go()

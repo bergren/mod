@@ -1,0 +1,4 @@
+go.bergrend.dev/mod/mod1 v0.0.1 h1:phC+HI1BNGbFkLViVIPkBac0YlLoeXFFasPimvKF/b8=
+go.bergrend.dev/mod/mod1 v0.0.1/go.mod h1:EUcpGpiMW3cnr1EntE+DcnikZe47cMpgRvqKJfd5Gxw=
+go.bergrend.dev/mod/mod2 v0.0.1 h1:VHhZUNqwSkb5zGZ3tgK/Pdu/25yXwp/XJ6665+75aNo=
+go.bergrend.dev/mod/mod2 v0.0.1/go.mod h1:05QCQnxt1VOAdQ5Jm5wzPUCOgqsiQsJdU0NiOo/oefA=
